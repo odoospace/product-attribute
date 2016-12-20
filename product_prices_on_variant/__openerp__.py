@@ -23,7 +23,7 @@
 
 {
     'name': 'product_prices_on_variant',
-    'version': '0.1',
+    'version': '9.0.0.0.1',
     'category': 'Generic Modules/Others',
     'license': 'AGPL-3',
     'description': """
@@ -40,7 +40,7 @@
     'update_xml': [
     ],
     'demo_xml': [],
-    'installable': False,
-    'active': False,
+    'installable': True,
+    'active': True,
 }
 

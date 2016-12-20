@@ -21,7 +21,7 @@
 
 from openerp.osv.orm import Model
 from openerp.osv import fields
-import decimal_precision as dp
+import openerp.addons.decimal_precision as dp
 
 
 class product_product(Model):
